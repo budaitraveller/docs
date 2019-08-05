@@ -95,6 +95,6 @@ We're always looking for ways to improve these open source libraries and would l
 
 Contributing Guidelines:
 
-- [openlaw-client](https://github.com/openlawteam/openlaw-client/blob/develop/CONTRIBUTING.md)
-- [openlaw-core](https://github.com/openlawteam/openlaw-core/blob/develop/CONTRIBUTING.md)
+- [openlaw-client](https://github.com/openlawteam/openlaw-client/blob/1a31dc28d2ef41f3739057cff8f32f73d1c3b529/docs/CONTRIBUTING.md)
+- [openlaw-core](https://github.com/openlawteam/openlaw-core/blob/master/README.md)
 - [openlaw-elements](https://github.com/openlawteam/openlaw-elements/blob/master/CONTRIBUTING.md)
